@@ -2,10 +2,9 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 .navbar {
-    background-image: linear-gradient(
-100deg
-, rgb(228 226 218) 0%, #4367a9 100%);
+    background-image: linear-gradient(rgb(0 123 255 / 50%), #212529);
     box-shadow: 0px 7px 5px grey;
+    color: ghostwhite;
 }
 #input-container {
     border: 1.5px solid silver; padding: 2.5%; margin: 5%;
